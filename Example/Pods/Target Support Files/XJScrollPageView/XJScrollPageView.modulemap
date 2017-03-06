@@ -1,0 +1,6 @@
+framework module XJScrollPageView {
+  umbrella header "XJScrollPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
