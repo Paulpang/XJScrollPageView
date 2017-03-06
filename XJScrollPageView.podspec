@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
 s.description      = 'XJScrollPageView是一款基于Swift3.0开发的导航指示器框架.'
 
-  s.homepage         = 'https://github.com/paulpang520/XJScrollPageView'
+  s.homepage         = 'https://github.com/Paulpang/XJScrollPageView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'paulpang520' => 'pxj1314@hotmail.com' }
-  s.source           = { :git => 'https://github.com/paulpang520/XJScrollPageView.git', :tag => s.version.to_s }
+  s.author           = { 'Paulpang' => 'pxj1314@hotmail.com' }
+  s.source           = { :git => 'https://github.com/Paulpang/XJScrollPageView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
